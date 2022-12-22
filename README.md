@@ -53,13 +53,16 @@ then implement the CanActivate interface
 
 ### Sample Screenshots
 Login View:
-![Login View]( "Login View")
+![Login View](https://user-images.githubusercontent.com/40699556/209125458-002a8d5a-3321-408c-af37-2a6d96f46515.png
+ "Login View")
 
 Login View with errors displayed:
-![Login View with errors]( "Login View with an errors displayed")
+![Login View with errors](https://user-images.githubusercontent.com/40699556/209125767-1f0ce6e0-3adf-4cd5-bb20-9eada3870267.png "Login View with errors displayed")
 
 Jwt Protected Dashboard after successfull login (only for Guard and Example purposes):
-![Dashboard after login]( "Dashboard after login")
+![Dashboard after login](https://user-images.githubusercontent.com/40699556/209126060-e471b14f-6fac-48eb-b52a-feac63c2f7c2.png "Dashboard after login")
 
 Register Form with passwords not matching error displayed:
-![Register Form with Passwords not matching error displayed]("Register Form with Passwords not matching error displayed")
+![Register Form with Passwords not matching error displayed](https://user-images.githubusercontent.com/40699556/209126348-ab113045-9c88-4b00-a384-121ed1cc60d1.png "Register Form with Passwords not matching error displayed")
+
+</center>
